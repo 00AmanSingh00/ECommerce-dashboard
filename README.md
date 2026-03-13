@@ -73,7 +73,7 @@ Madhav-Sales-Dashboard
 
 ### Main Dashboard
 
-![Dashboard](Screenshots/Dashboard_1.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
